@@ -1,0 +1,8 @@
+  deploy:
+    uses: "getpelican/pelican/.github/workflows/github_pages.yml@main"
+    permissions:
+      contents: "read"
+      pages: "write"
+      id-token: "write"
+    with:
+      settings: "publishconf.py"
