@@ -4,9 +4,9 @@ save_as: index.html
 
 My name is George Louthan; I’m a maker, hacker, computer geek, and IT ops weirdo. I recently started working on product security at the Rivian-VW joint venture with a focus in identity. Previously, I led an awesome team of cloud security engineers at AppDynamics, part of Cisco. Before that, I worked in high performance computing, helping found Tulsa's (sadly now-defunct) Tandy Supercomputing Center, where I served as the center director, later serving as Associate Director for Research Computing Strategy at the University of Oklahoma’s supercomputing center, OSCER.
 
-Since 2017 I’ve co-led the Black Team for the Southwest Regional Collegiate Cyber Defense Competition (SW CCDC), where we design, deploy, and support all aspects of IT operations for the competition. I strongly believe that CCDC is the best possible experience a college student can get to prepare them for a career in IT ops or security.
+Since 2017 I’ve co-led the Black Team for the Southwest Regional Collegiate Cyber Defense Competition (SWCCDC), where we design, deploy, and support all aspects of IT operations for the competition. I strongly believe that CCDC is the best possible experience a college student can get to prepare them for a career in IT ops or security.
 
-I also help with Queercon, the community sub-conference at DEF CON, where I work on electronic badges, mainly on embedded software and logistics. In the indie electronic badge community, I’m known as the guy who gets added on Facebook by Chinese vendors’ sales reps.
+I also help with Queercon, the community sub-conference at DEF CON, where I work on electronic badges, mainly on embedded software and logistics. In the indie electronic badge community, I’m known as the guy who gets added on social media by overseas vendors’ sales reps.
 
 In grad school I moonlit hosting karaoke at an arts bar. These days I moonlight writing software for embedded electronics. One of those involves late nights, confused wailing, and no pay. The other, of course, is karaoke.
 
