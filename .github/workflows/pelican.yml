@@ -2,6 +2,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: ["default"]
+  pull_request:
+    branches: ["default"]
   workflow_dispatch:
     inputs:
       deploy:
