@@ -8,6 +8,15 @@ TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
 
+STATIC_PATHS = [
+    "images",
+    "_meta",
+]
+
+EXTRA_PATH_METADATA = {
+    "_meta/favicon.ico": {"path": "favicon.ico"},
+}
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
