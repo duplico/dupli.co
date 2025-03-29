@@ -1,5 +1,5 @@
-AUTHOR = 'george | duplico'
-SITENAME = 'George Louthan | duplico'
+AUTHOR = 'duplico | george'
+SITENAME = 'duplico | george louthan'
 SITEURL = ""
 TIMEZONE = 'America/Chicago'
 DEFAULT_LANG = 'en'
@@ -25,7 +25,7 @@ PHOTO_THUMB = (192, 144, 60)
 PHOTO_SQUARE_THUMB = True # Crop to square
 PHOTO_RESIZE_JOBS = 0 # Try to detect CPU count and start CPU_COUNT+1 jobs
 PHOTO_WATERMARK = True
-PHOTO_WATERMARK_TEXT = "@dupli.co"
+PHOTO_WATERMARK_TEXT = "https://dupli.co"
 PHOTO_INLINE_GALLERY_ENABLED = True
 PHOTO_INLINE_GALLERY_TEMPLATE = "inline_gallery"
 
@@ -39,7 +39,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ("Starlight Concerts", "https://www.starlightconcerts.org/"),
-    ("Southwest CCDC", "https://www.southwestccdc.com/"),
+    ("Southwest CCDC", "https://southwestccdc.com/"),
     ("Queercon", "https://queercon.org/"),
     ("badge.lgbt", "https://badge.lgbt/"),
 )
@@ -52,7 +52,7 @@ SOCIAL = (
     ("LinkedIn", "https://www.linkedin.com/in/georgelouthan/"),
 )
 
-DEFAULT_PAGINATION = False
+# DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
