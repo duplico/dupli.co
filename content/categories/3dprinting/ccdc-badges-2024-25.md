@@ -16,8 +16,8 @@ competition role for the participant.
 We have some interesting requirements for these. We want them to be fun
 and related to the theme of the competition. They need to be variations of
 a similar design that are nevertheless clearly distinguishable. I print
-these in multi-color on my X1 and A1 Mini, so I put text on the bottom -
-so we also need to be able to generate a lot of variations of them for
+these in multi-color on my X1 and A1 Mini, so I put text on the bottom
+and need to be able to generate a lot of variations of them for
 each role and team number. And, finally, because it's an important game
 credential, we need to have visual renderings of them in our briefing
 materials and written documentation.
