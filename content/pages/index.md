@@ -1,4 +1,4 @@
-Title: About me
+Title: duplico | george louthan
 URL:
 save_as: index.html
 
