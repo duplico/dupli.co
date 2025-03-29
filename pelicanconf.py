@@ -18,7 +18,7 @@ PLUGINS = [
     "photos",
 ]
 
-PHOTO_LIBRARY = "/home/george/project/dupli.co/photos"
+PHOTO_LIBRARY = "photos"
 PHOTO_GALLERY = (1024, 768, 80)
 PHOTO_ARTICLE = (760, 506, 80)
 PHOTO_THUMB = (192, 144, 60)
