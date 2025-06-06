@@ -1,7 +1,7 @@
 Title: EarthBound at 30
 Date: 2025-06-05
 Modified: 2025-06-05
-Category: games
+Category: Games
 <!-- Status: draft -->
 
 ![Me holding my EarthBound box at age 9]({lightbox}2025/06-05-earthbound/IMG_20250605_211818~3.jpg)
