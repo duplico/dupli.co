@@ -31,7 +31,7 @@ the charm of childlike pretend stories. It's a sequence of stories about
 helping people through fanciful adventures.
 
 It's about great pizza, new friends, world travel, free daily newspapers, 
-and an alien megalomaniac. It's about winsom, courage, and friendship.
+and an alien megalomaniac. It's about wisdom, courage, and friendship.
 
 It's about the childhood experience of going out to play in a world that's
 full of infinite wonder and possibilities, where you can be anyone, go 
